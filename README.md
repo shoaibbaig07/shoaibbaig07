@@ -58,7 +58,7 @@ Some of the projects I’ve worked on:
 
  🌐 Connect With Me
 
-* GitHub: 
+* GitHub: https://github.com/shoaibbaig07
 * LinkedIn: www.linkedin.com/in/mohammed-shoaib-baig-921761381
 
 ---
