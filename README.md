@@ -36,13 +36,10 @@ Tools & Platforms
 
 Some of the projects I’ve worked on:
 
-* 🔐 Password Generator
 * ⏰ Digital Clock
-* 📋 To-Do List
 * 🧮 BMI Calculator
 * ✅ Regex Data Validation Project
-* 🌦️ Weather App
-* 🎵 Music Player
+
 
 ---
 
