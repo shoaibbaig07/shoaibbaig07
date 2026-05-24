@@ -1,6 +1,6 @@
 👋 Hey, I'm Shoaib Baig
 
- 🚀 Frontend Developer | Problem Solver | Tech Enthusiast
+ 🚀 Developer | Problem Solver | Tech Enthusiast
 
 Passionate about building modern, interactive, and user-friendly web applications using clean and efficient code. I enjoy transforming ideas into visually appealing digital experiences while continuously learning and improving my development skills.
 
@@ -19,13 +19,14 @@ Passionate about building modern, interactive, and user-friendly web application
 
  🛠️ Tech Stack
 
-Frontend
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=java,mysql,python,c,html,css,js" />
+  </p>
 
-* HTML5
-* CSS3
-* JavaScript
 
-Tools & Platforms
+---
+
+⚡ Tools & Platforms
 
 * Git & GitHub
 * VS Code
@@ -39,6 +40,8 @@ Some of the projects I’ve worked on:
 * ⏰ Digital Clock
 * 🧮 BMI Calculator
 * ✅ Regex Data Validation Project
+* 🔐 Password Generator
+* 👨‍💻 QR Code Generator
 
 
 ---
@@ -57,6 +60,17 @@ Some of the projects I’ve worked on:
 
 * GitHub: https://github.com/shoaibbaig07
 * LinkedIn: www.linkedin.com/in/mohammed-shoaib-baig-921761381
+
+---
+
+ 🧠 Mindset
+
+while(!success)
+{
+    learn();
+    build();
+    improve();
+}
 
 ---
 
