@@ -37,6 +37,7 @@ Passionate about building modern, interactive, and user-friendly web application
 
 Some of the projects I’ve worked on:
 
+* 🛡️ CyberLens: Cyber Crime Data Analysis
 * ⏰ Digital Clock
 * 🧮 BMI Calculator
 * ✅ Regex Data Validation Project
